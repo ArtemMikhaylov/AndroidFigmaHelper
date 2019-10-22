@@ -4,7 +4,7 @@ Script to move exported .png pictures from figma to android drawable folders.
 You export pictures for mobile in all required densities into one directory. 
 If you need, you also can export pictures for tablets the same way into another directory. 
 
-Specify directories of those folders and your project, and just run the script.
+Specify those directories and your project directory, and just run the script.
 
 General script flow goes this way: 
 
